@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter",
+      "id": 1
+    },
+    {
+      "title": "Lord of the Rings",
+      "id": 3
+    },
+    {
+      "title": "BOOK",
+      "id": 4
+    },
+    {
+      "title": "Best book",
+      "id": 5
+    }
+  ]
+}
